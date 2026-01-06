@@ -79,7 +79,7 @@
           "always_enabled": true
           },
           "style": "plain",
-          "template": "\ueab6",
+          "template": "\ue285",
           "type": "status"
         }
       ],
@@ -88,4 +88,5 @@
   ],
   "final_space": true,
   "version": 4
+
 }
